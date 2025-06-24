@@ -61,3 +61,10 @@ ping 8.8.8.8
     Connexion Internet locale pour générer du trafic
 
     Interface réseau active (ex: wlo2, eth0, etc.)
+
+    Ce sniffer ne filtre pas encore les paquets ni ne sauvegarde les données : il affiche simplement les informations réseau en temps réel. Il est destiné à l'apprentissage de la cybersécurité et des réseaux TCP/IP.
+
+    LYES HADBI
+
+    Étudiant passionné par la cybersécurité et les réseaux.
+    Ce projet fait partie de ma montée en compétences dans ce domaine.
